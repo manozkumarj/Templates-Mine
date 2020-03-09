@@ -46,11 +46,14 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Plot No. 33A, Road No.76,<br>
+              Near Mahaa News Channel,<br>
+              Jubilee Hills, Hyderabad,<br>
+              Telangana, 500033,<br>
+              India.<br>
+              <strong>Phone:</strong> +91 90300 29779<br>
+              <strong>Email:</strong> info@zoltglobal.com<br>
+              <strong>HR Email:</strong> hr@zoltglobal.com<br>
             </p>
 
           </div>
@@ -72,14 +75,15 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved
+        <!-- &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved -->
+        &copy; Copyright, All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->
