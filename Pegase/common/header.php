@@ -4,7 +4,7 @@
     <div class="container">
 
       <div class="logo float-left">
-        <h1 class="text-light"><a href="index.html"><span>Moderna</span></a></h1>
+        <h1 class="text-light"><a href="."><span>Moderna</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -14,8 +14,13 @@
           <li <?php if($page == 'home'): ?> class="active" <?php endif; ?> >
 		  <a href=".">Home</a></li>
 		  
-          <li <?php if($page == 'about'): ?> class="active" <?php endif; ?> >
-		  <a href="about">About Us</a></li>
+          <li class="drop-down" <?php if($page == 'about'): ?> class="active" <?php endif; ?> >
+		  <a href="about">About Us</a>
+            <ul>
+              <li><a href="about">About Us</a></li>
+              <li><a href="focus-areas">Focus Areas</a></li>
+            </ul>
+          </li>
 		  
           <li <?php if($page == 'services'): ?> class="active" <?php endif; ?> >
 		  <a href="services">Services</a></li>

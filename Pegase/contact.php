@@ -73,7 +73,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>Plot No. 33A, Road No.76, NearMahaa News Channel, 500033, Jubilee Hills, Hyderabad, Telangana 500033, India</p>
+                  <p>Plot No. 33A, Road No.76, Near Mahaa News Channel, 500033, Jubilee Hills, Hyderabad, Telangana, India.</p>
                 </div>
               </div>
               <div class="col-md-6">

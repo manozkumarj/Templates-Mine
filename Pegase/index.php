@@ -87,6 +87,7 @@
     </div>
   </section><!-- End Hero -->
 
+
   <main id="main">
 
     <!-- ======= Services Section ======= -->
@@ -240,8 +241,6 @@
 
       </div>
     </section><!-- End Features Section -->
-
-  </main><!-- End #main -->
 
 
 

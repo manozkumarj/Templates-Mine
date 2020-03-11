@@ -64,12 +64,41 @@
     <section class="team" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
       <div class="container">
 
+      
+
+      <div class="row">
+          <div class="col-lg-4 pt-4 pt-lg-0">
+            <div class="member">
+            <div class="member-img">
+            <img src="assets/img/team/venu.jpg" class="img-fluid" alt="" style="border: 2px solid #DDD; padding: 10px;">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+          </div>
+          </div>
+          </div>
+          <div class="col-lg-8">
+            <div class="member">
+              <div class="member-info">
+              <h4>Mr. Venu Madhav Chennupati</h4>
+              <span>Chief Executive Officer</span>
+              <p>Mr.Venu Madhav Chennupati holds an MBA degree from the University of Michigan and a dual MS degree from the University of Pennsylvania in Telecom and Networks Management and Operations Research.</p>
+              <p>He has 14 years of experience having previously worked at NASDAQ on Business Analytics, on project monitoring, financing and resource management for the World Bank in the Latin and Caribbean Region and Europe and Central Asia and then headed Business Development and technology for HMRI-104, the world's largest non-emergency healthcare helpline that runs mobile health camps across several Indian states.</p>
+              <p>Mr.Chennupati founded Zolt in 2009 and holds the position of Chief Executive Officer. He is responsible for the company's growth, strategy and direction and directly manages the Operations, Finance and Projects functions. He is also the founder of Asvas Healthcare and Penn Infotech.</p>
+          </div>
+        </div>
+        </div>
+        </div>
+
         <div class="row">
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -78,9 +107,10 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
+                <h4>Mr. Venu Madhav Chennupati</h4>
                 <span>Chief Executive Officer</span>
-                <p>Animi est delectus alias quam repellendus nihil nobis dolor. Est sapiente occaecati et dolore. Omnis aut ut nesciunt explicabo qui. Eius nam deleniti ut omnis repudiandae perferendis qui. Neque non quidem sit sed pariatur quia modi ea occaecati. Incidunt ea non est corporis in.</p>
+                <p>Mr.Venu Madhav Chennupati holds an MBA degree from the University of Michigan and a dual MS degree from the University of Pennsylvania in Telecom and Networks Management and Operations Research.</p>
+                <p>Mr.Chennupati founded Zolt in 2009 and holds the position of Chief Executive Officer. He is responsible for the company's growth, strategy and direction and directly manages the Operations, Finance and Projects functions. He is also the founder of Asvas Healthcare and Penn Infotech.</p>
               </div>
             </div>
           </div>
@@ -97,9 +127,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque. Dolores eum non.</p>
+                <h4>Mr.Abhijeet Dwivedi</h4>
+                <span>Advisor</span>
+                <p>A successful entrepreneur in the San Francisco Bay Area. Dwivedi worked as CSO for Zenefits and at McKinsey & Company, leading corporate and business strategy initiatives for high-tech companies and government agencies. He has unparalleled experience advising CEOs and government leaders in India, Japan, UK, and the U.S. on business transformation strategies and operations.</p>
               </div>
             </div>
           </div>
@@ -116,9 +146,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat aliquid. Tenetur possimus qui enim.</p>
+                <h4>Prof. Shyamal Gupta</h4>
+                <span>Advisor</span>
+                <p>Prof. Shyamal Gupta has completed his MBA from the world renowned Kellogg School of Management, Chicago, USA. Shyamal has also completed his Certified Public Accountancy (CPA) from Delaware USA. He has nearly 15 years of international experience working in reputed organisations including the WorldBank, Washington DC, USA.</p>
               </div>
             </div>
           </div>
@@ -135,9 +165,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Sint qui cupiditate. Asperiores fugit impedit aspernatur et mollitia. Molestiae qui placeat labore assumenda id qui nesciunt quo reprehenderit. Rem dolores similique quis soluta culpa enim quia ratione ea.</p>
+                <h4>Mr. George Durazzo</h4>
+                <span>Advisor</span>
+                <p>Originally attracted to the public sector and works from Washington DC, George Durazzo came to fully appreciate the dynamism and necessary efficiency of small business and entrepreneurship. Durazzo believes in ``L'Esprit d'entrepreneur`` and the power of hard work, ambition, and vision to foster creativity and innovation.</p>
               </div>
             </div>
           </div>
@@ -154,9 +184,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Niall Katz</h4>
-                <span>Marketing</span>
-                <p>Aut ex esse explicabo quia harum ea accusamus excepturi. Temporibus at quia quisquam veritatis impedit. Porro laborum voluptatum sed necessitatibus a saepe. Deserunt laborum quasi consequatur voluptatum iusto sint qui fuga vel. Enim eveniet sed quibusdam rerum in. Non dicta architecto consequatur quo praesentium nesciunt.</p>
+                <h4>Vamsikrishna Varma</h4>
+                <span>Chief Operating Officer</span>
+                <p>Mr. Vamsikrishna Varma is an MBA from Madras University. Vamsikrishna Varma has over 12 years in SAP implementations and also in managing Sales, Purchase functions. His last employer was Deloitte Consulting where he was responsible for SAP implementation for Fortune 500 clients. Mr. Varma joined ZOLT in Feb 2014 and currently the Chief Operating Officer and heads the operations and delivery at ZOLT.</p>
               </div>
             </div>
           </div>
@@ -173,9 +203,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Demi Lewis</h4>
-                <span>Financing</span>
-                <p>Amet labore numquam corrupti est. Nostrum amet voluptas consectetur dolor voluptatem architecto distinctio consequuntur eligendi. Quam impedit enim aut nesciunt aut dicta quam exercitationem. Reprehenderit exercitationem magnam. Ullam similique ut voluptas totam nobis porro accusamus nulla omnis.</p>
+                <h4>Vamsi Chennupati</h4>
+                <span>Director</span>
+                <p>Vamsi Madhav holds a Masters Degree in Biomedical Engineering from NYU Poly. He has worked earlier with Broadcom and Penn Information Technologies. Mr. Vamsi Madhav has been with Zolt from the inception and is currently responsible for Business Development. He is also a Director with Penn Infotech.</p>
               </div>
             </div>
           </div>
