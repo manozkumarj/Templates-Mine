@@ -1,15 +1,20 @@
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top <?php if($page == 'home'): ?> header-transparent <?php endif; ?>">
-    <div class="container">
+  <header id="header" class="fixed-top <?php if($page == 'home'): ?> header-transparent <?php endif; ?>" style="height: 110px;">
+    <div class="container" style="max-width: 1258px !important;">
 
       <div class="logo float-left">
-        <h1 class="text-light"><a href="."><span>Moderna</span></a></h1>
+        <h1 class="text-light">
+        <a href=".">
+        <span>
+        <img src="assets/img/logo.jpg" alt="" style="max-height: 118px; margin-top: -20px; width: 138px;">
+        </span>
+        </a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
-      <nav class="nav-menu float-right d-none d-lg-block">
+      <nav class="nav-menu float-right d-none d-lg-block" style="margin-top: 18px;">
         <ul>
           <li <?php if($page == 'home'): ?> class="active" <?php endif; ?> >
 		  <a href=".">Home</a></li>

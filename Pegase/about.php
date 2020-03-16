@@ -73,13 +73,13 @@
 <p>Since the beginning, we focused on high-quality software engineering principles and an unwavering commitment to delivery. These combined strengths enable PEGASE to smoothly adapt to the rapid evolution of technology while maintaining constant focus on the changing business needs of its client.</p>
         </div>
 
-        <div class="row">
+        <div class="row"> 
           <div class="col-lg-6">
             <h3>Company Structure</h3>
             <p class="font-italic">
-            PEGASE Health Systems Private Limited is a Private Company incorporated on 24 February 2009. It is classified as Indian Non-Government Company and is registered at Registrar of Companies, Hyderabad. PEGASE Info Solutions Private Limited's Corporate Identification Number is (CIN) U72200TG2009PTC062864.
+            PEGASE Health Systems is a Private Company incorporated on 24 February 2009. It is classified as Indian Non-Government Company and is registered at Registrar of Companies, Hyderabad. PEGASE Info Solutions Private Limited's Corporate Identification Number is (CIN) U72200TG2009PTC062864.
             </p>
-            <p>PEGASE Health Systems Private Limited is a CMMi-level 3 appraised Healthcare Systems, Products and Service Provider, with solid experience in software development for Healthcare Solutions in Client Server, Web and Mobile environments. PEGASE started its journey in 2009 and currently hires 100 Employees working across India in various technology platforms. PEGASE Software powers all the world largest health helpline, telemedicine software across India and Electronic Health Records for seven states in India.
+            <p>PEGASE Health Systems is a CMMi-level 3 appraised Healthcare Systems, Products and Service Provider, with solid experience in software development for Healthcare Solutions in Client Server, Web and Mobile environments. PEGASE started its journey in 2009 and currently hires 100 Employees working across India in various technology platforms. PEGASE Software powers all the world largest health helpline, telemedicine software across India and Electronic Health Records for seven states in India.
             </p>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
