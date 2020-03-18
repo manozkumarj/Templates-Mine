@@ -27,17 +27,29 @@
             </ul>
           </li>
 		  
-          <li <?php if($page == 'services'): ?> class="active" <?php endif; ?> >
-		  <a href="services">Services</a></li>
+          <li class="drop-down" <?php if($page == 'solutions'): ?> class="active" <?php endif; ?> >
+		  <a href="solutions">Solutions</a>
+            <ul>
+              <li><a href="#!">Public Health Systems</a></li>
+              <li><a href="#!">Hospitals & Clinics</a></li>
+              <li><a href="#!">End Customers</a></li>
+            </ul>
+          </li>
 		  
-          <li <?php if($page == 'portfolio'): ?> class="active" <?php endif; ?> >
-		  <a href="portfolio">Portfolio</a></li>
+          <li class="drop-down" <?php if($page == 'products'): ?> class="active" <?php endif; ?> >
+		  <a href="products">Products</a>
+            <ul>
+              <li><a href="#!">Healthcare Apps</a></li>
+              <li><a href="#!">Dox-in-box</a></li>
+              <li><a href="#!">Doctor on call</a></li>
+            </ul>
+          </li>
 		  
           <li <?php if($page == 'team'): ?> class="active" <?php endif; ?> >
 		  <a href="team">Team</a></li>
 		  
-          <li <?php if($page == 'blog'): ?> class="active" <?php endif; ?> >
-		  <a href="blog">Blog</a></li>
+      <!--     <li <?php if($page == 'blog'): ?> class="active" <?php endif; ?> >
+		  <a href="blog">Blog</a></li> -->
 		  
 		  
 		  <!--
